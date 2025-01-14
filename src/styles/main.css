@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navbar-area-set{
+    background-color: rgba(86, 0, 206, 0.1) !important;
+    color: #fff;
+}
+.area-set-sub-menu{
+    background: #2B076E !important;
+    color: #fff;
+   
+}
+.menu-item-color{
+    color: #fff !important;
+}
+.tgmenu__search-form [type=submit] {
+    background: #0ECDB9 !important;
+    color: #fff !important;
+}
+
+.theme_btn{
+    background: #0ECDB9 !important;
+}
+.theme_btn:hover{
+    background: #5600CE !important;
+}
+
+.categories__nav button svg{
+    margin: auto;
+}
