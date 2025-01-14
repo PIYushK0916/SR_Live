@@ -1,0 +1,365 @@
+/*!
+*    ______ _       _   _
+*    |  ____| |     | | (_)
+*    | |__  | | __ _| |_ _  ___ ___  _ __
+*    |  __| | |/ _` | __| |/ __/ _ \| '_ \
+*    | |    | | (_| | |_| | (_| (_) | | | |
+*    |_|    |_|\__,_|\__|_|\___\___/|_| |_|
+*
+*         https://www.SkillGro.com
+*/
+
+@font-face {
+    font-family: "flaticon-SkillGro-new";
+    src: url("flaticon_SkillGro.woff2?1ef5b908031aa083bdbc72ac4c837d2e") format("woff2"),
+    url("flaticon_SkillGro.woff?1ef5b908031aa083bdbc72ac4c837d2e") format("woff"),
+}
+
+i[class^="SkillGro-"]:before, i[class*=" SkillGro-"]:before {
+    font-family: flaticon-SkillGro-new !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.SkillGro-book:before {
+    content: "\f101";
+}
+.SkillGro-lotus:before {
+    content: "\f102";
+}
+.SkillGro-text-file:before {
+    content: "\f103";
+}
+.SkillGro-happy-face:before {
+    content: "\f104";
+}
+.SkillGro-taxes:before {
+    content: "\f105";
+}
+.SkillGro-vector:before {
+    content: "\f106";
+}
+.SkillGro-notepad:before {
+    content: "\f107";
+}
+.SkillGro-writing:before {
+    content: "\f108";
+}
+.SkillGro-audio-book:before {
+    content: "\f109";
+}
+.SkillGro-financial-profit:before {
+    content: "\f10a";
+}
+.SkillGro-development-plan:before {
+    content: "\f10b";
+}
+.SkillGro-smart-watch:before {
+    content: "\f10c";
+}
+.SkillGro-browser:before {
+    content: "\f10d";
+}
+.SkillGro-heart:before {
+    content: "\f10e";
+}
+.SkillGro-mortarboard:before {
+    content: "\f10f";
+}
+.SkillGro-stone:before {
+    content: "\f110";
+}
+.SkillGro-label:before {
+    content: "\f111";
+}
+.SkillGro-menu:before {
+    content: "\f112";
+}
+.SkillGro-satchel:before {
+    content: "\f113";
+}
+.SkillGro-law:before {
+    content: "\f114";
+}
+.SkillGro-profit:before {
+    content: "\f115";
+}
+.SkillGro-ribbon:before {
+    content: "\f116";
+}
+.SkillGro-time:before {
+    content: "\f117";
+}
+.SkillGro-book-1:before {
+    content: "\f118";
+}
+.SkillGro-magnifying-glass:before {
+    content: "\f119";
+}
+.SkillGro-heart-1:before {
+    content: "\f11a";
+}
+.SkillGro-group:before {
+    content: "\f11b";
+}
+.SkillGro-review:before {
+    content: "\f11c";
+}
+.SkillGro-anahata:before {
+    content: "\f11d";
+}
+.SkillGro-search:before {
+    content: "\f11e";
+}
+.SkillGro-users:before {
+    content: "\f11f";
+}
+.SkillGro-gear:before {
+    content: "\f120";
+}
+.SkillGro-avatar:before {
+    content: "\f121";
+}
+.SkillGro-sliders:before {
+    content: "\f122";
+}
+.SkillGro-file:before {
+    content: "\f123";
+}
+.SkillGro-arrow-up:before {
+    content: "\f124";
+}
+.SkillGro-closed-book:before {
+    content: "\f125";
+}
+.SkillGro-graduation:before {
+    content: "\f126";
+}
+.SkillGro-right-arrow:before {
+    content: "\f127";
+}
+.SkillGro-heart-2:before {
+    content: "\f128";
+}
+.SkillGro-instructor:before {
+    content: "\f129";
+}
+.SkillGro-arrow-up-1:before {
+    content: "\f12a";
+}
+.SkillGro-tutorial:before {
+    content: "\f12b";
+}
+.SkillGro-lotus-flower:before {
+    content: "\f12c";
+}
+.SkillGro-bulb:before {
+    content: "\f12d";
+}
+.SkillGro-presentation:before {
+    content: "\f12e";
+}
+.SkillGro-flash:before {
+    content: "\f12f";
+}
+.SkillGro-web-programming:before {
+    content: "\f130";
+}
+.SkillGro-development:before {
+    content: "\f131";
+}
+.SkillGro-hatha-yoga:before {
+    content: "\f132";
+}
+.SkillGro-exchange:before {
+    content: "\f133";
+}
+.SkillGro-customer-support:before {
+    content: "\f134";
+}
+.SkillGro-investment:before {
+    content: "\f135";
+}
+.SkillGro-email:before {
+    content: "\f136";
+}
+.SkillGro-next:before {
+    content: "\f137";
+}
+.SkillGro-fashion:before {
+    content: "\f138";
+}
+.SkillGro-group-1:before {
+    content: "\f139";
+}
+.SkillGro-placeholder:before {
+    content: "\f13a";
+}
+.SkillGro-photo-camera:before {
+    content: "\f13b";
+}
+.SkillGro-diploma:before {
+    content: "\f13c";
+}
+.SkillGro-diploma-1:before {
+    content: "\f13d";
+}
+.SkillGro-cup:before {
+    content: "\f13e";
+}
+.SkillGro-happiness:before {
+    content: "\f13f";
+}
+.SkillGro-idea:before {
+    content: "\f140";
+}
+.SkillGro-video-camera:before {
+    content: "\f141";
+}
+.SkillGro-database:before {
+    content: "\f142";
+}
+.SkillGro-book-2:before {
+    content: "\f143";
+}
+.SkillGro-phone-call:before {
+    content: "\f144";
+}
+.SkillGro-brain:before {
+    content: "\f145";
+}
+.SkillGro-finance:before {
+    content: "\f146";
+}
+.SkillGro-webinar:before {
+    content: "\f147";
+}
+.SkillGro-atom:before {
+    content: "\f148";
+}
+.SkillGro-next-1:before {
+    content: "\f149";
+}
+.SkillGro-money-bag:before {
+    content: "\f14a";
+}
+.SkillGro-calendar:before {
+    content: "\f14b";
+}
+.SkillGro-graduating-student:before {
+    content: "\f14c";
+}
+.SkillGro-tooth:before {
+    content: "\f14d";
+}
+.SkillGro-video-tutorial:before {
+    content: "\f14e";
+}
+.SkillGro-mortarboard-1:before {
+    content: "\f14f";
+}
+.SkillGro-idea-1:before {
+    content: "\f150";
+}
+.SkillGro-presentation-1:before {
+    content: "\f151";
+}
+.SkillGro-three-o-clock-clock:before {
+    content: "\f152";
+}
+.SkillGro-customize:before {
+    content: "\f153";
+}
+.SkillGro-certificate:before {
+    content: "\f154";
+}
+.SkillGro-calculator:before {
+    content: "\f155";
+}
+.SkillGro-verified:before {
+    content: "\f156";
+}
+.SkillGro-graduated:before {
+    content: "\f157";
+}
+.SkillGro-shopping-cart:before {
+    content: "\f158";
+}
+.SkillGro-diploma-2:before {
+    content: "\f159";
+}
+.SkillGro-mat:before {
+    content: "\f15a";
+}
+.SkillGro-user:before {
+    content: "\f15b";
+}
+.SkillGro-demand:before {
+    content: "\f15c";
+}
+.SkillGro-dashboard:before {
+    content: "\f15d";
+}
+.SkillGro-bookmark-white:before {
+    content: "\f15e";
+}
+.SkillGro-question:before {
+    content: "\f15f";
+}
+.SkillGro-clipboard:before {
+    content: "\f160";
+}
+.SkillGro-marketing:before {
+    content: "\f161";
+}
+.SkillGro-chat:before {
+    content: "\f162";
+}
+.SkillGro-list:before {
+    content: "\f163";
+}
+.SkillGro-settings:before {
+    content: "\f164";
+}
+.SkillGro-logout:before {
+    content: "\f165";
+}
+.SkillGro-dollar-currency-symbol:before {
+    content: "\f166";
+}
+.SkillGro-quality:before {
+    content: "\f167";
+}
+.SkillGro-group-2:before {
+    content: "\f168";
+}
+.SkillGro-badge:before {
+    content: "\f169";
+}
+.SkillGro-twitter:before {
+    content: "\f16a";
+}
+.SkillGro-maps-and-flags:before {
+    content: "\f16b";
+}
+.SkillGro-email-1:before {
+    content: "\f16c";
+}
+.SkillGro-next-2:before {
+    content: "\f16d";
+}
+.SkillGro-back:before {
+    content: "\f16e";
+}
+.SkillGro-edit:before {
+    content: "\f16f";
+}
+.SkillGro-bin:before {
+    content: "\f170";
+}
+
